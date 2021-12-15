@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import coregraphics
+import CoreGraphics
 
 extension NSAttributedString {
     func draw(center: CGPoint) {
