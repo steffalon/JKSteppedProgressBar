@@ -3,7 +3,7 @@
 //  JKSteppedProgressBar
 //
 //  Created by Johnykutty Mathew on 12/09/16.
-//  Copyright © 2016 Johnykutty Mathew. All rights reserved.
+//  Copyright Â© 2016 Johnykutty Mathew. All rights reserved.
 //
 
 import UIKit
@@ -293,7 +293,7 @@ open class SteppedProgressBar: UIView {
                 attributes[NSFontAttributeName] = font
                 #endif
                 let attributedString = NSAttributedString(string: buttonTitle, attributes: attributes)
-                attributedString.draw(center: point)
+                attributedString.draw(at: point)
             }
         }
         
