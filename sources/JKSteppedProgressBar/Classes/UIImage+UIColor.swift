@@ -1,5 +1,5 @@
 import UIKit
-import coregraphics
+import CoreGraphics
 
 extension UIImage {
     func imageWithColor(_ color: UIColor) -> UIImage {
