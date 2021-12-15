@@ -17,5 +17,5 @@ let package = Package(
             name: "JKSteppedProgressBar",
         )
     ],
-    swiftLanguageVersions: [.v3]
+    swiftLanguageVersions: [.v5]
 )
