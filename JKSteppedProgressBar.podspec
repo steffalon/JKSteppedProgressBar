@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
 
     s.ios.deployment_target = '8.0'
 
-    s.source_files = 'JKSteppedProgressBar/Classes/*.swift'
+    s.source_files = 'sources/JKSteppedProgressBar/Classes/*.swift'
 
     # s.resource_bundles = {
     #   'JKSteppedProgressBar' => ['JKSteppedProgressBar/Assets/*.png']
